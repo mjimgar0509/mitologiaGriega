@@ -1,0 +1,78 @@
+﻿body {
+    background-color: black;
+    color: #333333;
+    margin: 0;
+    padding: 20px;
+}
+.Mito {
+    background-color: white;
+    border: 8px solid green;
+    
+}
+.Volver{
+    background-color: white;
+    border: 8px solid green;
+    margin-right: 1760px;
+}
+h1 {
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+    padding: 15px;
+    border: 8px solid green;
+    background-color: rgba(0,0,0,0.3);
+    font-size: 64px;
+    font-weight: 100;
+    font-family: 'Impact';
+    color: green;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -80%);
+}
+h2 {
+    color: green;
+    font-weight: 100;
+    font-family: 'Impact';
+    margin-left: 50px;
+}
+
+img {
+    display: flex;
+    margin-left: auto; /* Empuja desde la izquierda */
+    margin-right: auto; /* Empuja desde la derecha */
+    border: 8px solid green;
+}
+
+.portada {
+    position: relative;
+}
+p {
+    margin-left: 25px;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+ul {
+    font-family: 'Comic Sans MS', sans-serif;
+}
+ol {
+    font-family: 'Comic Sans MS', sans-serif;
+}
+table {
+    font-family: 'Comic Sans MS', sans-serif;
+
+    border: 8px solid green;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+th, td {
+    padding: 12px 15px;
+    border: 8px solid green;
+}
+.Cabecera {
+    background-color: green;
+    font-weight: bold;
+    color: white;
+}
+.fila1{
+        background-color: grey;
+}
