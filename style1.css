@@ -57,7 +57,7 @@ ol {
 }
 table {
     font-family: 'Comic Sans MS', sans-serif;
-
+    font-size: 24 px;
     border: 8px solid green;
     border-collapse: collapse;
     margin-top: 20px;
